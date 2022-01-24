@@ -10,8 +10,8 @@ import sqlite3
 
 #declare and initialise working variables/constants
 DATABASE_LOCATION = "sqlite://played_tracks.sqlite"
-USER_ID = "harpreet"
-TOKEN = ""
+USER_ID = "simrvn"
+TOKEN = "" #insert API token
 
 
 '''
